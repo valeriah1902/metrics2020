@@ -1,15 +1,15 @@
-salon;grupo;lugar;semana;fecha;alimento;precio;unidades;Observaciones
+Ôªøsalon;grupo;lugar;semana;fecha;alimento;precio;unidades;Observaciones
 1;7;surtifruver_cll58;1;feb-07;cebolla;1090;lb;Cosecha. Por eso promociones de viernes a lunes
 1;7;surtifruver_cll58;1;feb-07;coliflor;3350;lb;Por unidad no hay
 1;7;surtifruver_cll58;1;feb-07;papa;890;lb;Cosecha
-1;7;surtifruver_cll58;1;feb-07;tomate;1900;lb;No est· en cosecha 
-1;7;surtifruver_cll58;1;feb-07;zanahoria;980;lb;En promociÛn y cosecha
+1;7;surtifruver_cll58;1;feb-07;tomate;1900;lb;No est√° en cosecha 
+1;7;surtifruver_cll58;1;feb-07;zanahoria;980;lb;En promoci√≥n y cosecha
 1;7;surtifruver_cll58;1;feb-07;fresa;6300;lb;No hay cosechas por heladas
-1;7;surtifruver_cll58;1;feb-07;granadilla;6850;lb;No cosecha. Por eso est· costosa
+1;7;surtifruver_cll58;1;feb-07;granadilla;6850;lb;No cosecha. Por eso est√° costosa
 1;7;surtifruver_cll58;1;feb-07;lulo;2590;lb;No cosecha
 1;7;surtifruver_cll58;1;feb-07;manzana;1800;1 unidad ;Importada chilena o de Estados Unidos
 1;7;surtifruver_cll58;1;feb-07;maracuya;3490;lb;No cosecha 
-1;7;olimpica;2;feb-13;cebolla;1300;lb;Se cambiÛ Èxito_express por olimpica
+1;7;olimpica;2;feb-13;cebolla;1300;lb;Se cambi√≥ √©xito_express por olimpica
 1;7;olimpica;2;feb-13;coliflor;3750;lb;NA
 1;7;olimpica;2;feb-13;papa;4800;lb;NA
 1;7;olimpica;2;feb-13;tomate;3450;lb;NA
@@ -29,7 +29,7 @@ salon;grupo;lugar;semana;fecha;alimento;precio;unidades;Observaciones
 1;7;surtifruver_cll58;3;feb-22;lulo;2500;lb;NA
 1;7;surtifruver_cll58;3;feb-22;manzana;1650;unidad;paquete de 6 unidades
 1;7;surtifruver_cll58;3;feb-22;maracuya;3750;lb;NA
-1;7;olimpica;4;feb-28;cebolla;2450;lb;Se cambiÛ Èxito_express por olimpica
+1;7;olimpica;4;feb-28;cebolla;2450;lb;Se cambi√≥ √©xito_express por olimpica
 1;7;olimpica;4;feb-28;coliflor;3450;lb;NA
 1;7;olimpica;4;feb-28;papa;4800;lb;NA
 1;7;olimpica;4;feb-28;tomate;2400;lb;NA
